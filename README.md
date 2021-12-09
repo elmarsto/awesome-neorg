@@ -20,10 +20,10 @@ And if you're wondering what _that_ is about, then you're in for a treat :) [Che
 
 ### Who are you? 
 
-Just a software engineer.
+Just a software engineer, helping out of personal interest.  
 
 ### What's your relation to the Neorg project? the Neovim Project? 
 
 I'm basically a megafan of Neovim and most of its surrounding ecosystem, especially Neorg.
 
-They said "be the change you want to see in the world," and I wanted to see more neorg. Like, a *lot* more. 
+They said "be the change you want to see in the world," and I wanted to see more Neorg. Like, a *lot* more. 
