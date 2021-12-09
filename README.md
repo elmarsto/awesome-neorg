@@ -6,11 +6,12 @@ Contributions accepted delightedly! Throw up a Gist and submit a PR to this repo
 
 ## The Collection
 
-(currently empty; waiting for holiday vacation time to populate this list! --- elmarsto@ 2021-12-08)
+--
+(currently empty; waiting for holiday vacation time to populate this list! In the meantime, send me your links, ideally as a PR modifying this file! Remember to keep it alpha-sorted! --- elmarsto@ 2021-12-08)
+--
 
+## FAQ
 
-
-##FAQ 
 ### Wot's all this about? 
 
 Neorg is an org-mode-alike for [Neovim](https://github.com/neovim/neovim).
