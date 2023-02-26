@@ -16,9 +16,7 @@ Contributions accepted delightedly! Throw up a Gist and submit a PR to this repo
 * Some useful Snippets like links, lists, headings and more
 * Treesitter Highlighting of Text for Eye-Candy
 
-#### Screenshots
-
-![Treesitter Highlighting](https://gist.github.com/Jxstxs/aab9c1547609cf2e9d90f25b5e52641d#file-treesitter-png)
+![Treesitter Highlighting](https://gist.githubusercontent.com/Jxstxs/aab9c1547609cf2e9d90f25b5e52641d/raw/cbf3a5fcdf14146b8593948cab549621dff28d4f/treesitter.png)
 
 ## FAQ
 
