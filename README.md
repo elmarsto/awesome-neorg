@@ -6,9 +6,19 @@ Contributions accepted delightedly! Throw up a Gist and submit a PR to this repo
 
 ## The Collection
 
---
-(currently empty; waiting for holiday vacation time to populate this list! In the meantime, send me your links, ideally as a PR modifying this file! Remember to keep it alpha-sorted! --- elmarsto@ 2021-12-08)
---
+### [Jxstxs/nvimconf](https://github.com/Jxstxs/nvimconf)
+
+> Indepth Information could be found [here](https://gist.github.com/Jxstxs/aab9c1547609cf2e9d90f25b5e52641d#file-README-md)
+
+#### What it offers
+
+* Basic Configuaration
+* Some useful Snippets like links, lists, headings and more
+* Treesitter Highlighting of Text for Eye-Candy
+
+#### Screenshots
+
+![Treesitter Highlighting](https://gist.github.com/Jxstxs/aab9c1547609cf2e9d90f25b5e52641d#file-treesitter-png)
 
 ## FAQ
 
